@@ -10,7 +10,7 @@ using started code combine and create a working api-auth server
 
 ### Links and Resources
 
-- [ci/cd](https://github.com/EDStaehle/basic-express-server/actions) (GitHub Actions)
+- [ci/cd](https://github.com/EDStaehle/auth-api/actions) (GitHub Actions)
 - [prod development](postgres://eliasstaehle_user:RXgpZrgEXdvXlVg4FgUeRqZD5NaU2bzL@dpg-ce42fk6n6mpku7k0j3rg-a.ohio-postgres.render.com/eliasstaehle)
 
 ### Setup
@@ -47,5 +47,4 @@ see `.env.sample`
 
 #### UML
 
-![UML](./src/assets/class-03-uml.png)
-
+![UML](./assets/class-08-uml.png)
